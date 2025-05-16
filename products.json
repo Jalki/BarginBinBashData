@@ -1,0 +1,404 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Vintage Leather Jacket",
+      "price": 45.99,
+      "description": "Slightly worn but stylish. Great for bargains!",
+      "category": "clothing",
+      "image": "https://via.placeholder.com/300x200?text=Leather+Jacket"
+    },
+    {
+      "id": 2,
+      "title": "Used Smartphone (Android)",
+      "price": 80.00,
+      "description": "Works perfectly, minor scratches.",
+      "category": "electronics",
+      "image": "https://via.placeholder.com/300x200?text=Used+Phone"
+    },
+    {
+      "id": 3,
+      "title": "Antique Wooden Chair",
+      "price": 35.50,
+      "description": "Rustic charm, needs slight repair.",
+      "category": "furniture",
+      "image": "https://via.placeholder.com/300x200?text=Antique+Chair"
+    },
+    {
+      "id": 4,
+      "title": "Handwoven Basket",
+      "price": 12.99,
+      "description": "Eco-friendly, handmade.",
+      "category": "home",
+      "image": "https://via.placeholder.com/300x200?text=Handwoven+Basket"
+    },
+    {
+      "id": 5,
+      "title": "Second-Hand DSLR Camera",
+      "price": 120.00,
+      "description": "Includes lens, good condition.",
+      "category": "electronics",
+      "image": "https://via.placeholder.com/300x200?text=DSLR+Camera"
+    },
+    {
+      "id": 6,
+      "title": "Retro Vinyl Record",
+      "price": 8.99,
+      "description": "Classic album, minor scratches.",
+      "category": "entertainment",
+      "image": "https://via.placeholder.com/300x200?text=Vinyl+Record"
+    },
+    {
+      "id": 7,
+      "title": "Handmade Ceramic Mug",
+      "price": 6.50,
+      "description": "Unique design, microwave-safe.",
+      "category": "home",
+      "image": "https://via.placeholder.com/300x200?text=Ceramic+Mug"
+    },
+    {
+      "id": 8,
+      "title": "Used Bicycle",
+      "price": 75.00,
+      "description": "Tires need air, rides well.",
+      "category": "sports",
+      "image": "https://via.placeholder.com/300x200?text=Used+Bike"
+    },
+    {
+      "id": 9,
+      "title": "Collectible Comic Book",
+      "price": 15.99,
+      "description": "Rare edition, good for collectors.",
+      "category": "entertainment",
+      "image": "https://via.placeholder.com/300x200?text=Comic+Book"
+    },
+    {
+      "id": 10,
+      "title": "Wooden Chess Set",
+      "price": 22.00,
+      "description": "Missing one pawn, otherwise complete.",
+      "category": "games",
+      "image": "https://via.placeholder.com/300x200?text=Chess+Set"
+    },
+    {
+      "id": 11,
+      "title": "Vintage Wristwatch",
+      "price": 55.00,
+      "description": "Works but needs battery.",
+      "category": "accessories",
+      "image": "https://via.placeholder.com/300x200?text=Vintage+Watch"
+    },
+    {
+      "id": 12,
+      "title": "Used Coffee Maker",
+      "price": 18.99,
+      "description": "Fully functional, includes pot.",
+      "category": "home",
+      "image": "https://via.placeholder.com/300x200?text=Coffee+Maker"
+    },
+    {
+      "id": 13,
+      "title": "Leather Wallet",
+      "price": 10.50,
+      "description": "Slightly worn, genuine leather.",
+      "category": "accessories",
+      "image": "https://via.placeholder.com/300x200?text=Leather+Wallet"
+    },
+    {
+      "id": 14,
+      "title": "Portable Bluetooth Speaker",
+      "price": 25.00,
+      "description": "Scratches but sounds great.",
+      "category": "electronics",
+      "image": "https://via.placeholder.com/300x200?text=Bluetooth+Speaker"
+    },
+    {
+      "id": 15,
+      "title": "Hand-Painted Vase",
+      "price": 14.99,
+      "description": "Small chip at the base.",
+      "category": "home",
+      "image": "https://via.placeholder.com/300x200?text=Painted+Vase"
+    },
+    {
+      "id": 16,
+      "title": "Used Fitness Dumbbells",
+      "price": 30.00,
+      "description": "5kg each, good condition.",
+      "category": "sports",
+      "image": "https://via.placeholder.com/300x200?text=Dumbbells"
+    },
+    {
+      "id": 17,
+      "title": "Second-Hand Backpack",
+      "price": 20.00,
+      "description": "Zipper sticks sometimes.",
+      "category": "accessories",
+      "image": "https://via.placeholder.com/300x200?text=Used+Backpack"
+    },
+    {
+      "id": 18,
+      "title": "Old Hardcover Book",
+      "price": 7.99,
+      "description": "Classic novel, yellowed pages.",
+      "category": "books",
+      "image": "https://via.placeholder.com/300x200?text=Hardcover+Book"
+    },
+    {
+      "id": 19,
+      "title": "Handmade Beaded Necklace",
+      "price": 9.50,
+      "description": "Colorful, one-of-a-kind.",
+      "category": "jewelry",
+      "image": "https://via.placeholder.com/300x200?text=Beaded+Necklace"
+    },
+    {
+      "id": 20,
+      "title": "Used Microwave",
+      "price": 40.00,
+      "description": "Works but has a small dent.",
+      "category": "home",
+      "image": "https://via.placeholder.com/300x200?text=Used+Microwave"
+    },
+    {
+      "id": 21,
+      "title": "Vintage Typewriter",
+      "price": 65.00,
+      "description": "Functional, missing one key.",
+      "category": "collectibles",
+      "image": "https://via.placeholder.com/300x200?text=Typewriter"
+    },
+    {
+      "id": 22,
+      "title": "Hand-Carved Wooden Bowl",
+      "price": 18.00,
+      "description": "Minor cracks, adds character.",
+      "category": "home",
+      "image": "https://via.placeholder.com/300x200?text=Wooden+Bowl"
+    },
+    {
+      "id": 23,
+      "title": "Used Skateboard",
+      "price": 35.00,
+      "description": "Grip tape worn, wheels roll fine.",
+      "category": "sports",
+      "image": "https://via.placeholder.com/300x200?text=Skateboard"
+    },
+    {
+      "id": 24,
+      "title": "Faux Leather Sofa",
+      "price": 90.00,
+      "description": "Comfy but has a small tear.",
+      "category": "furniture",
+      "image": "https://via.placeholder.com/300x200?text=Used+Sofa"
+    },
+    {
+      "id": 25,
+      "title": "Rustic Picture Frame",
+      "price": 5.99,
+      "description": "Chipped corner, vintage look.",
+      "category": "home",
+      "image": "https://via.placeholder.com/300x200?text=Picture+Frame"
+    },
+    {
+      "id": 26,
+      "title": "Used Tennis Racket",
+      "price": 25.00,
+      "description": "Strings need replacement.",
+      "category": "sports",
+      "image": "https://via.placeholder.com/300x200?text=Tennis+Racket"
+    },
+    {
+      "id": 27,
+      "title": "Hand-Stitched Quilt",
+      "price": 45.00,
+      "description": "Small stain, otherwise cozy.",
+      "category": "home",
+      "image": "https://via.placeholder.com/300x200?text=Quilt"
+    },
+    {
+      "id": 28,
+      "title": "Old Record Player",
+      "price": 50.00,
+      "description": "Needs new needle, spins fine.",
+      "category": "electronics",
+      "image": "https://via.placeholder.com/300x200?text=Record+Player"
+    },
+    {
+      "id": 29,
+      "title": "Copper Cooking Pot",
+      "price": 28.00,
+      "description": "Tarnished but usable.",
+      "category": "kitchen",
+      "image": "https://via.placeholder.com/300x200?text=Copper+Pot"
+    },
+    {
+      "id": 30,
+      "title": "Used Drone",
+      "price": 85.00,
+      "description": "Missing one propeller.",
+      "category": "electronics",
+      "image": "https://via.placeholder.com/300x200?text=Used+Drone"
+    },
+    {
+      "id": 31,
+      "title": "Handmade Dreamcatcher",
+      "price": 12.00,
+      "description": "Feathers slightly bent.",
+      "category": "decor",
+      "image": "https://via.placeholder.com/300x200?text=Dreamcatcher"
+    },
+    {
+      "id": 32,
+      "title": "Vintage Suitcase",
+      "price": 32.00,
+      "description": "Latch sticks, retro charm.",
+      "category": "accessories",
+      "image": "https://via.placeholder.com/300x200?text=Vintage+Suitcase"
+    },
+    {
+      "id": 33,
+      "title": "Used Electric Guitar",
+      "price": 110.00,
+      "description": "Scratches, great sound.",
+      "category": "music",
+      "image": "https://via.placeholder.com/300x200?text=Electric+Guitar"
+    },
+    {
+      "id": 34,
+      "title": "Hand-Blown Glass Vase",
+      "price": 24.00,
+      "description": "Tiny crack near the base.",
+      "category": "home",
+      "image": "https://via.placeholder.com/300x200?text=Glass+Vase"
+    },
+    {
+      "id": 35,
+      "title": "Antique Brass Lamp",
+      "price": 42.00,
+      "description": "Needs rewiring.",
+      "category": "furniture",
+      "image": "https://via.placeholder.com/300x200?text=Brass+Lamp"
+    },
+    {
+      "id": 36,
+      "title": "Used Treadmill",
+      "price": 150.00,
+      "description": "Belt squeaks but runs.",
+      "category": "fitness",
+      "image": "https://via.placeholder.com/300x200?text=Treadmill"
+    },
+    {
+      "id": 37,
+      "title": "Handmade Pottery Plate",
+      "price": 8.00,
+      "description": "Uneven glaze, artisanal.",
+      "category": "kitchen",
+      "image": "https://via.placeholder.com/300x200?text=Pottery+Plate"
+    },
+    {
+      "id": 38,
+      "title": "Vintage Polaroid Camera",
+      "price": 60.00,
+      "description": "Film not included.",
+      "category": "electronics",
+      "image": "https://via.placeholder.com/300x200?text=Polaroid"
+    },
+    {
+      "id": 39,
+      "title": "Used Office Chair",
+      "price": 35.00,
+      "description": "Wheels wobble slightly.",
+      "category": "furniture",
+      "image": "https://via.placeholder.com/300x200?text=Office+Chair"
+    },
+    {
+      "id": 40,
+      "title": "Hand-Knitted Scarf",
+      "price": 11.00,
+      "description": "Small loose thread.",
+      "category": "clothing",
+      "image": "https://via.placeholder.com/300x200?text=Knitted+Scarf"
+    },
+    {
+      "id": 41,
+      "title": "Rustic Wall Mirror",
+      "price": 28.00,
+      "description": "Frame scratched, glass intact.",
+      "category": "home",
+      "image": "https://via.placeholder.com/300x200?text=Wall+Mirror"
+    },
+    {
+      "id": 42,
+      "title": "Used Snowboard",
+      "price": 95.00,
+      "description": "Bindings included, edges dull.",
+      "category": "sports",
+      "image": "https://via.placeholder.com/300x200?text=Snowboard"
+    },
+    {
+      "id": 43,
+      "title": "Handmade Candle Holder",
+      "price": 7.50,
+      "description": "Slight asymmetry.",
+      "category": "decor",
+      "image": "https://via.placeholder.com/300x200?text=Candle+Holder"
+    },
+    {
+      "id": 44,
+      "title": "Vintage Pocket Watch",
+      "price": 48.00,
+      "description": "Runs slow sometimes.",
+      "category": "accessories",
+      "image": "https://via.placeholder.com/300x200?text=Pocket+Watch"
+    },
+    {
+      "id": 45,
+      "title": "Used Camping Tent",
+      "price": 55.00,
+      "description": "Missing one stake, no leaks.",
+      "category": "outdoors",
+      "image": "https://via.placeholder.com/300x200?text=Camping+Tent"
+    },
+    {
+      "id": 46,
+      "title": "Hand-Painted Tray",
+      "price": 9.99,
+      "description": "Paint chipping at corners.",
+      "category": "home",
+      "image": "https://via.placeholder.com/300x200?text=Painted+Tray"
+    },
+    {
+      "id": 47,
+      "title": "Antique Oil Painting",
+      "price": 75.00,
+      "description": "Craquelure, unframed.",
+      "category": "art",
+      "image": "https://via.placeholder.com/300x200?text=Oil+Painting"
+    },
+    {
+      "id": 48,
+      "title": "Used Rollerblades",
+      "price": 40.00,
+      "description": "Size 9, wheels worn.",
+      "category": "sports",
+      "image": "https://via.placeholder.com/300x200?text=Rollerblades"
+    },
+    {
+      "id": 49,
+      "title": "Handmade Macramé Plant Hanger",
+      "price": 10.00,
+      "description": "One knot loose.",
+      "category": "home",
+      "image": "https://via.placeholder.com/300x200?text=Macrame+Hanger"
+    },
+    {
+      "id": 50,
+      "title": "Vintage Sewing Machine",
+      "price": 65.00,
+      "description": "Manual, needs oiling.",
+      "category": "crafts",
+      "image": "https://via.placeholder.com/300x200?text=Sewing+Machine"
+    }
+  ]
+}
